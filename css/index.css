@@ -335,7 +335,7 @@ img {
   align-items: center;
   width: 200px;
   height: 45px;
-  background-color: #17A2B8;
+  background-color: rgb(206, 246, 252);
   color: #FFFFFF;
   border: 1px solid #C0C0C0;
   cursor: pointer;
